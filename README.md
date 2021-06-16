@@ -1,7 +1,7 @@
-# Adefemi Kolawole's Website
+# Leees Kitchen Website
 ## A Page about me
 
-You can use visit [my landing page](https://adefemikolawole.com) to preview the content on my website
+Visit isit [my landing page](https://leeeskitchen.com) to preview leees kitchen
 
 ### Markdown Cheatsheet
 
